@@ -40,8 +40,8 @@ Estudiante de **Ingeniería en Sistemas de Información** en la UTN FRVT (4.º a
 
 ## Contacto
 
-- 🌐 [jhproyectos.com.ar](https://www.jhproyectos.com.ar)
-- 💼 [LinkedIn:](https://www.linkedin.com/in/jonatan-harbertz/)
+- 🌐 [Web](https://www.jhproyectos.com.ar)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jonatan-harbertz/)
 
 ---
 
